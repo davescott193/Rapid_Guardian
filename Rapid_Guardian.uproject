@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{F90C5146-4D7B-07F9-A2D3-7FA1E8080532}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Rapid_Guardian",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
